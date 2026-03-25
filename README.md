@@ -1,2 +1,26 @@
-# vat-calculator
-Free online VAT calculator for accountants, bookkeepers, and small businesses. Calculate VAT, reverse VAT, and VAT-inclusive/exclusive prices instantly.
+# VAT Calculator – VAT Calculator Online
+
+This is a simple online VAT calculator designed for accountants, bookkeepers, and small businesses to calculate VAT quickly and accurately.
+
+## Features
+- VAT calculation
+- Reverse VAT calculation
+- VAT inclusive and exclusive price calculation
+- Simple and fast tool
+
+## Use the Calculator
+You can use the online VAT calculator here:
+https://quickvatcalc.com
+
+## VAT Formula
+VAT Amount = Price × VAT Rate ÷ 100
+
+Price Including VAT = Price + VAT Amount
+
+Price Excluding VAT = Price Including VAT ÷ (1 + VAT Rate)
+
+## Who Can Use This Tool
+- Accountants
+- Bookkeepers
+- Small business owners
+- Finance students
